@@ -1,5 +1,6 @@
 # beyzakizilkaya
 <div align="center"> 
+<br/>
 <div align="left">
       Hello! I'm Beyza 👋 I am a Test Engineer actively involved in software testing processes. I have experience across a broad range of testing, from automation to manual testing. I place great importance on optimizing test processes, improving software quality, and minimizing errors. 
 </div>
