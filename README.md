@@ -18,6 +18,17 @@
        <li>Version Control: Git, GitHub</li>
    </ul>  
 </div>  
+
+<div>
+      <h3>🔍 Test Projelerim</h3>
+      <h4>📂 RestAssured Cucember API Automation</h4>
+      Bu projede RestAssured Cucember API Automation için test süreçlerini yönettim. Otomasyon testleri geliştirdim ve manuel test süreçlerini iyileştirdim.
+      - **Kullanılan Teknolojiler:** Selenium, TestNG, Jenkins
+      - **Proje Hedefleri:** UI testleri, API testleri, performans testleri
+      - **Rolüm:** Test Otomasyonu ve Manuel Test Senaryoları Yazma
+      - **Bağlantı:** [Proje Bağlantısı](https://www.ornek.com/proje)
+</div>
+
  <div align="Left">
     <h3>📫 Content Me</h3> 
         <a href="https://www.linkedin.com/in/beyzakzlkya/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin-profile" height="30" width="30"/></a>
