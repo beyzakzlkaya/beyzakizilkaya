@@ -8,14 +8,22 @@
   <br/>
    
 <div align="left">
-   🚀 My Skills
+   <h3>🚀 My Skills</h3>
    <br/>
-   Test Automation: Selenium, Cucember
-   Manual Testing: Writing and executing test cases, bug tracking
-   API Testing: Postman, RestAssured, MongoDB, MySQL
-   Performance Testing: JMeter
-   CI/CD: Jenkins, GitLab CI
-   Programming Language: JAVA, Python, C#, HTML, CSS, SQL
+   <ul>
+       <li>Test Automation: Selenium, Cucember</li>
+       <li>Manual Testing: Writing and executing test cases, bug tracking, Regression Testing, Smoke Testing, Black/White Box Testing</li>
+       <li>API Testing: Postman, RestAssured, MongoDB, MySQL</li>
+       <li>Performance Testing: JMeter</li>
+       <li>CI/CD: Jenkins, GitLab CI</li>
+       <li>Programming Language: JAVA, Python, C#, HTML, CSS, SQL</li>
+   </ul>
+   
+
+
+ 
+   
+  
 </div>
 
    
