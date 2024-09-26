@@ -21,9 +21,9 @@
 <br/>
 
 <div align="left">
-      <h3>🔍 Test Projelerim</h3>
+      <h3>🔍 My Test Projects</h3>
       <h4>📂 RestAssured Cucember API Automation</h4>
-      Bu projede RestAssured Cucember API Automation için test süreçlerini yönettim. Otomasyon testleri geliştirdim ve manuel test süreçlerini iyileştirdim.
+      In this project, I managed the testing processes for RestAssured Cucumber API Automation. I developed automation tests and improved the manual testing processes.
       <ul>
             <li>Kullanılan Teknolojiler: RestAssured, Cucember</li>
             <li>Proje Hedefleri: API testleri</li>
