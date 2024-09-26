@@ -27,7 +27,7 @@
       <ul>
             <li>Technologies Used: RestAssured, Cucember</li>
             <li>Project Objectives: API testleri</li>
-            <li>Project: [Project URL](github.com/beyzakzlkaya/RestAssuredCucemberAPIAutomation)</li>
+            <li>Project: <a href="github.com/beyzakzlkaya/RestAssuredCucemberAPIAutomation">RestAssured Cucember API Automation</a></li>
       </ul>
      
 
