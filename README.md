@@ -6,7 +6,19 @@
      I am a Test Engineer actively involved in software testing processes. I have experience across a broad range of testing, from automation to manual testing. I place great importance on optimizing test processes, improving software quality, and minimizing errors. 
 </div>
   <br/>
+   
+<div align="left">
+   🚀 My Skills
+   <br/>
+   Test Automation: Selenium, Cucember
+   Manual Testing: Writing and executing test cases, bug tracking
+   API Testing: Postman, RestAssured, MongoDB, MySQL
+   Performance Testing: JMeter
+   CI/CD: Jenkins, GitLab CI
+   Programming Language: JAVA, Python, C#, HTML, CSS, SQL
+</div>
 
+   
    <div align="center">
       📫 Content Me
       <br/>
