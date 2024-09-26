@@ -2,7 +2,9 @@
 <div align="center">
    Hello! I'm Beyza 👋
    <br/>
-  I am a Test Engineer actively involved in software testing processes. I have experience across a broad range of testing, from automation to manual testing. I place great importance on optimizing test processes, improving software quality, and minimizing errors. 
+<div align="left">
+     I am a Test Engineer actively involved in software testing processes. I have experience across a broad range of testing, from automation to manual testing. I place great importance on optimizing test processes, improving software quality, and minimizing errors. 
+</div>
   <br/>
 
    <div align="center">
