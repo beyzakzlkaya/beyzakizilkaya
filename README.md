@@ -1,6 +1,6 @@
 # beyzakizilkaya
 <div align="center">
-  ### I'm Test Engineer
+   I'm Test Engineer
  
-  [![Linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/beyzakzlkya/)
+  [![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/beyzakzlkya/)
 </div>
