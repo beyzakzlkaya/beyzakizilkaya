@@ -25,8 +25,8 @@
       <h4>📂 RestAssured Cucember API Automation</h4>
       In this project, I managed the testing processes for RestAssured Cucumber API Automation. I developed automation tests and improved the manual testing processes.
       <ul>
-            <li>Kullanılan Teknolojiler: RestAssured, Cucember</li>
-            <li>Proje Hedefleri: API testleri</li>
+            <li>Technologies Used: RestAssured, Cucember</li>
+            <li>Project Objectives: API testleri</li>
             <li>Project: [Project URL](github.com/beyzakzlkaya/RestAssuredCucemberAPIAutomation)</li>
       </ul>
      
