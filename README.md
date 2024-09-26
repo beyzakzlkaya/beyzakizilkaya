@@ -18,11 +18,7 @@
        <li>Programming Language: JAVA, Python, C#, HTML, CSS, SQL</li>
        <li>Version Control: Git, GitHub</li>
    </ul>  
-</div>
-
- <h3>📊 GitHub İstatistiklerim</h3>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzakzlkaya&show_icons=true&count_private=true)
-  
+</div>  
  <div align="Left">
     <h3>📫 Content Me</h3> 
         <a href="https://www.linkedin.com/in/beyzakzlkya/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin-profile" height="30" width="30"/></a>
