@@ -21,14 +21,15 @@
 </div>
 <div align="left">
   <h3>📊 GitHub İstatistiklerim</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzakzlkaya&show_icons=true)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzakzlkaya&show_icons=true)
 </div>
+ 
  <div align="Left">
     <h3>📫 Content Me</h3> 
         <a href="https://www.linkedin.com/in/beyzakzlkya/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin-profile" height="30" width="30"/></a>
   <a href="https://medium.com/@beyzakizilkaya" target="blank"><img align="center" src="https://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium-profile" height="30" width="30" /></a>
-   </div>
-  
+ </div>
+
 
   
 
