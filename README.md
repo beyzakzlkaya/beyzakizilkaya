@@ -19,14 +19,18 @@
    </ul>  
 </div>  
 
-<div>
+<div align="left">
       <h3>🔍 Test Projelerim</h3>
       <h4>📂 RestAssured Cucember API Automation</h4>
       Bu projede RestAssured Cucember API Automation için test süreçlerini yönettim. Otomasyon testleri geliştirdim ve manuel test süreçlerini iyileştirdim.
-      - **Kullanılan Teknolojiler:** Selenium, TestNG, Jenkins
-      - **Proje Hedefleri:** UI testleri, API testleri, performans testleri
-      - **Rolüm:** Test Otomasyonu ve Manuel Test Senaryoları Yazma
-      - **Bağlantı:** [Proje Bağlantısı](https://www.ornek.com/proje)
+      <ul>
+            <li>Kullanılan Teknolojiler: RestAssured, Cucember</li>
+            <li>Proje Hedefleri: API testleri</li>
+            <li>Project: [Project URL](github.com/beyzakzlkaya/RestAssuredCucemberAPIAutomation)</li>
+      </ul>
+     
+
+    
 </div>
 
  <div align="Left">
