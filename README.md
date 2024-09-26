@@ -19,9 +19,8 @@
        <li>Version Control: Git, GitHub</li>
    </ul>  
 </div>
-<div align="left">
-  <h3>📊 GitHub İstatistiklerim</h3>
-</div>
+
+ <h3>📊 GitHub İstatistiklerim</h3>
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzakzlkaya&show_icons=true&count_private=true)
   
  <div align="Left">
